@@ -30,3 +30,5 @@ The before and after signal after baseline wander removal and normalization (Par
 <img src="https://user-images.githubusercontent.com/89351262/146329096-09740a77-7647-46df-8635-12bd033a9a54.png" width="500" /> <br />
 <img src="https://user-images.githubusercontent.com/89351262/146329182-0cbcdafc-75eb-49c5-83f6-434c4aa77486.png" width="500" /> <br />
 </p>
+
+You can read my thesis here: https://repository.unsri.ac.id/52182/

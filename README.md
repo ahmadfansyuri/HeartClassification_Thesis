@@ -1,4 +1,4 @@
-## Heart Classification Thesis using PTB Database
+## Heart Classification Thesis using PTB Database (Pra Processing)
 
 This code were used for my thesis "Classification of Heart Disease based on Electrocardiogram Signal using 1-Dimensional Convolutional Neural Network Method". The dataset iam used were retrieved from https://www.physionet.org/content/ptbdb/1.0.0/.
 
